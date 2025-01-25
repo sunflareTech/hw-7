@@ -1,6 +1,6 @@
 .list {
     font-size: 24px;
 }
-a[href^="https"] {
+a[href="https"] {
     color: red;
 }
